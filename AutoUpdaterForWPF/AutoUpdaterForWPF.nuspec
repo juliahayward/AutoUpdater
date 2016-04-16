@@ -1,0 +1,21 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Julia's Auto-Updater</title>
+    <authors>Julia Hayward</authors>
+    <owners>Julia Hayward</owners>
+    <summary>An auto-updater for .NET applications</summary>
+    <projectUrl>https://github.com/juliahayward/AutoUpdater</projectUrl>
+    <!-- iconUrl></iconUrl><32x32 png, transparent background -->
+    <licenseUrl>https://github.com/juliahayward/AutoUpdater</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>An auto-updater for .NET applications</description>
+    <copyright>Copyright 2016, Julia Hayward</copyright>
+    <tags>Julia's Auto-Updater</tags>
+    <dependencies>
+      <dependency id="NewtonSoft.Json" version="6.0.8" />
+    </dependencies>
+  </metadata>
+</package>
