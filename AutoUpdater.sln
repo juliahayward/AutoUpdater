@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdaterSlave", "AutoUpdaterSlave\AutoUpdaterSlave.csproj", "{B39C8545-4583-4DB6-9041-38C61D2F0491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdaterTest", "AutoUpdaterTest\AutoUpdaterTest.csproj", "{74383DB5-681B-42A4-A034-B3F738BA73CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdaterForWPF", "AutoUpdaterForWPF\AutoUpdaterForWPF.csproj", "{4760BBC7-ECF2-4EF7-A82F-6CCD8D2D0329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39C8545-4583-4DB6-9041-38C61D2F0491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39C8545-4583-4DB6-9041-38C61D2F0491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39C8545-4583-4DB6-9041-38C61D2F0491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39C8545-4583-4DB6-9041-38C61D2F0491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74383DB5-681B-42A4-A034-B3F738BA73CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74383DB5-681B-42A4-A034-B3F738BA73CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74383DB5-681B-42A4-A034-B3F738BA73CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74383DB5-681B-42A4-A034-B3F738BA73CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4760BBC7-ECF2-4EF7-A82F-6CCD8D2D0329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4760BBC7-ECF2-4EF7-A82F-6CCD8D2D0329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4760BBC7-ECF2-4EF7-A82F-6CCD8D2D0329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4760BBC7-ECF2-4EF7-A82F-6CCD8D2D0329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

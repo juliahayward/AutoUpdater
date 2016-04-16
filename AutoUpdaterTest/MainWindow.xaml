@@ -1,0 +1,11 @@
+﻿<Window x:Class="AutoUpdaterTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+        <Label>This is version 1 - press button to get version 2</Label>
+        <Button Click="go_Click">Go</Button>
+        </StackPanel>
+    </Grid>
+</Window>
