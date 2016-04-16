@@ -8,11 +8,11 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AutoUpdaterForWPF")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("WPF controls for my auto-updater")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AutoUpdaterForWPF")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Julia Hayward")]
+[assembly: AssemblyProduct("AutoUpdater")]
+[assembly: AssemblyCopyright("Copyright © Julia Hayward 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

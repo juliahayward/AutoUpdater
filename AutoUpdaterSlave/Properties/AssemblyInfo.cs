@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AutoUpdaterSlave")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The slave application for my auto-updater")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("AutoUpdaterSlave")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("Julia Hayward")]
+[assembly: AssemblyProduct("AutoUpdater")]
+[assembly: AssemblyCopyright("Copyright © Julia Hayward 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
